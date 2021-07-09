@@ -10,5 +10,5 @@ Just run
 python3 main.py
 ```
 ### Preview
-![image](https://user-images.githubusercontent.com/74947404/125043098-3a33a700-e0b8-11eb-8485-a9a447d805dc.png)
+<img src="https://user-images.githubusercontent.com/74947404/125054792-3574f000-e0c4-11eb-88eb-daa3538e1ff9.gif" width="600" height="400"/>
 
